@@ -13,19 +13,19 @@ Don't forget your master password or you wil get locked away forever.
 ------------------------------
 Planned Updates:
 
-Search entries
-Edit entries
-Delete entries
-Password strength checker
-Random password generator
-Copy password to clipboard
-GUI using Tkinter or PySide6/PyQt
-Dark mode
-Search bar
-Categories (School, Email, Banking, etc.)
-Auto-lock after inactivity
-Import/export encrypted vaults
-Automatic backups
+Search entries ,
+Edit entries ,
+Delete entries ,
+Password strength checker ,
+Random password generator ,
+Copy password to clipboard ,
+GUI using Tkinter or PySide6/PyQt ,
+Dark mode ,
+Search bar ,
+Categories (School, Email, Banking, etc.) ,
+Auto-lock after inactivity ,
+Import/export encrypted vaults ,
+Automatic backups ,
 Unit tests
 
 ------------------------------
