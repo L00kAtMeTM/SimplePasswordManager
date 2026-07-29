@@ -54,8 +54,8 @@ def decrypt_aes(tag,nonce,ciphertext, key):
     except ValueError:
         raise Exception("Decryption failed")
 
-fileplace = "C:\\Users\\TGsT\\Documents\\PM\\p.json"
-masterplace = "C:\\Users\\TGsT\\Documents\\PM\\master.json"
+fileplace = "p.json"
+masterplace = "master.json"
 
 
 if not os.path.isfile(masterplace):
