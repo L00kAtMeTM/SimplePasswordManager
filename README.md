@@ -27,6 +27,7 @@ Auto-lock after inactivity
 Import/export encrypted vaults
 Automatic backups
 Unit tests
+
 ------------------------------
 
 It will get updates as time goes on
